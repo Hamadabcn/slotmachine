@@ -1,5 +1,10 @@
 https://github.com/user-attachments/assets/a6f6f4de-1288-4f4a-ad34-4036036940d5
-![slotmachine](https://github.com/user-attachments/assets/1e8fda5c-751d-42d3-bd7c-d77ccb1d4fba)
+
+
+
+https://github.com/user-attachments/assets/98c62a72-8585-4f21-9bdc-8d1b2d39437a
+
+
 # Slot Machine Game in Python (Tkinter)
 # Description
 This is a simple GUI-based slot machine game implemented in Python using the Tkinter library for the graphical user interface (GUI). The game simulates a slot machine with various symbols, allowing players to place bets and spin to win based on matching symbols.
