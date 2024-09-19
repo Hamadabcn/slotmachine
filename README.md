@@ -33,7 +33,7 @@ This is a simple GUI-based slot machine game implemented in Python using the Tki
 You need to install the pygame package to handle sound effects. You can install it using pip: pip install pygame
 
 # Running the Game
-1. Clone or download this repository.
+1. Clone or download this repository: https://github.com/Hamadabcn/slotmachine.git
 2. Make sure you have the required sound files (slotmachine.mp3 and won.mp3) placed in the same directory as the script.
 3. Run the game by executing the following command: python gui.py
 
