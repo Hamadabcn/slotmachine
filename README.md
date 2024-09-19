@@ -1,5 +1,4 @@
-https://github.com/user-attachments/assets/a6f6f4de-1288-4f4a-ad34-4036036940d5
-
+![slotmachine](https://github.com/user-attachments/assets/ba1c8a66-521a-4f13-bb5f-66058d58ff5f)
 
 
 https://github.com/user-attachments/assets/98c62a72-8585-4f21-9bdc-8d1b2d39437a
